@@ -3,7 +3,7 @@
 # No dependencies beyond this list (constitution Principle I/III).
 google-adk==2.3.0
 google-genai==2.10.0
-mcp==1.28.1
+mcp==1.30.0
 httpx==0.28.1
 pydantic==2.13.4
 fastapi==0.138.2
